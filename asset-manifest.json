@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-learning/static/css/main.6843a2ce.chunk.css",
+    "main.js": "/react-learning/static/js/main.fe5bba62.chunk.js",
+    "main.js.map": "/react-learning/static/js/main.fe5bba62.chunk.js.map",
+    "runtime-main.js": "/react-learning/static/js/runtime-main.d33f6a50.js",
+    "runtime-main.js.map": "/react-learning/static/js/runtime-main.d33f6a50.js.map",
+    "static/js/2.dc487b30.chunk.js": "/react-learning/static/js/2.dc487b30.chunk.js",
+    "static/js/2.dc487b30.chunk.js.map": "/react-learning/static/js/2.dc487b30.chunk.js.map",
+    "index.html": "/react-learning/index.html",
+    "static/css/main.6843a2ce.chunk.css.map": "/react-learning/static/css/main.6843a2ce.chunk.css.map",
+    "static/js/2.dc487b30.chunk.js.LICENSE.txt": "/react-learning/static/js/2.dc487b30.chunk.js.LICENSE.txt",
+    "static/media/Preloader.a0f02698.gif": "/react-learning/static/media/Preloader.a0f02698.gif",
+    "static/media/User.8ae9816d.png": "/react-learning/static/media/User.8ae9816d.png",
+    "static/media/galochka.dc33bca1.png": "/react-learning/static/media/galochka.dc33bca1.png",
+    "static/media/krestik.b732998c.jpg": "/react-learning/static/media/krestik.b732998c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d33f6a50.js",
+    "static/js/2.dc487b30.chunk.js",
+    "static/css/main.6843a2ce.chunk.css",
+    "static/js/main.fe5bba62.chunk.js"
+  ]
+}
